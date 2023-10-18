@@ -1,0 +1,10 @@
+{
+    "features": [
+        "intercept"
+    ],
+    "target": "views",
+    "group_by_key": "article",
+    "lag_features": [
+        "views_lag_0"
+    ]
+}
